@@ -1,0 +1,11 @@
+/* &display=swap */
+@import "null.css";
+
+/*=================================================== FIGMA ===================================================*/
+
+.wrapper {
+	max-width: 1920px;
+	margin: 0 auto;
+	min-height: 100%;
+	overflow: hidden;
+}
